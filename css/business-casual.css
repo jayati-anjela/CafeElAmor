@@ -4,6 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+html{
+  height: 100%;
+}
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
@@ -105,6 +108,7 @@ hr {
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
+
 }
 
 footer p {
