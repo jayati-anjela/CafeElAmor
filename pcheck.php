@@ -5,7 +5,7 @@ $email = $_POST['email'];
 $password = $_POST['password'];
 
 //Open a new connection to the MySQL server
-$mysqli = new mysqli('localhost', 'root', '', 'perfectcup');
+$mysqli = new mysqli('localhost', 'root', '', 'cafedb');
 
 
 //Output any connection error

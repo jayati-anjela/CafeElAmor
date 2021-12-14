@@ -128,6 +128,7 @@
                     <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d949.5863447046937!2d77.10798198784677!3d28.40343888082853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d218c9effabff%3A0x75b553bacf5bbce!2sRaisina%20Rd%2C%20Alahawas%2C%20Sector%2059%2C%20Gurugram%2C%20Haryana%20122102!5e0!3m2!1sen!2sin!4v1637192504248!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
+
                 <div class="col-md-4">
                     <p>Phone:
                         <strong>123.456.7890</strong>
@@ -146,7 +147,7 @@
 
 </div>
     <!-- /.container -->
-
+<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
     <footer>
         <div class="container">
             <div class="row">
