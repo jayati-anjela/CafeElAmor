@@ -90,6 +90,10 @@
     </div>
     <!-- /.container -->
 
+    <div class="space" style="height: 50px;">
+
+    </div>
+
     <footer>
         <div class="container">
             <div class="row">
@@ -99,6 +103,7 @@
             </div>
         </div>
     </footer>
+
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
