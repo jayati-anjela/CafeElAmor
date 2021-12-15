@@ -152,12 +152,12 @@
     </div>
     <!-- /.container -->
 
-    <div class="space" style="height: 200px;">
+    <div class="space" style="height: 600px;">
 
     </div>
 
     <footer>
-        <div class="container">
+        <div class="container" >
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <p>Copyright &copy; Café el amor 2021</p>

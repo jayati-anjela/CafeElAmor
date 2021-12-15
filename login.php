@@ -125,7 +125,7 @@
 
     </div>
     <!-- /.container -->
-    <div class="space" style="height: 200px;">
+    <div class="space" style="height: 520px;">
 
     </div>
 
